@@ -1,0 +1,6 @@
+DNA = "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"
+print("A =", DNA.count("A"))
+print("C =", DNA.count("C"))
+print("G =", DNA.count("G"))
+print("T =", DNA.count("T"))
+#it solves the problem, but the return is not exactly what the page asks for.
